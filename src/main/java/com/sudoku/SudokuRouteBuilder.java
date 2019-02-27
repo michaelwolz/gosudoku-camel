@@ -30,6 +30,7 @@ public class SudokuRouteBuilder extends RouteBuilder {
     }
 
     public void configure() {
+        // ICH WEIß, DASS DIE KEYS NICHT INS ÖFFENTLICHE GIT SOLLTEN! IST MIR ABER EGAL. NACH DEM PROJEKT WERDEN DIE BOTS GELÖSCHT
         System.out.println("Setting up camel-routes");
 
         // Build Subscribe URI
